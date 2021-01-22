@@ -13,7 +13,7 @@ This is the code repository for [Transformers for Natural Language Processing](h
 
 * [Packt Publishing](https://www.packtpub.com/product/transformers-for-natural-language-processing/9781800565791)
 
-## About the Book (Needs to be updated)
+## About the Book
 Transformers for Natural Language Processing investigates in vast detail the deep learning for machine translations, speech-to-text, text-to-speech, language modeling, question answering, and many more NLP domains in context with the Transformers.
 
 The book takes you through Natural language processing with Python and examines various eminent models and datasets in the transformer technology created by pioneers such as Google, Facebook, Microsoft, OpenAI, Hugging Face, and other contributors.
