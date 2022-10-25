@@ -53,3 +53,7 @@ Check this file for the hardware and software requirements: [technical_requireme
 * [Python Machine Learning - Third Edition](https://www.packtpub.com/product/python-machine-learning-third-edition/9781789955750)
 * [Hands-On Explainable AI (XAI) with Python - Second Edition](https://www.packtpub.com/product/hands-on-explainable-ai-xai-with-python/9781800208131)
 
+### Download a free PDF
+
+ <i>If you have already purchased a print or Kindle version of this book, you can get a DRM-free PDF version at no cost.<br>Simply click on the link to claim your free PDF.</i>
+<p align="center"> <a href="https://packt.link/free-ebook/9781800565791">https://packt.link/free-ebook/9781800565791 </a> </p>
